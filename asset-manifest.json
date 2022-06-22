@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webtest/static/css/main.73cc0440.css",
+    "main.js": "/webtest/static/js/main.f600feca.js",
+    "index.html": "/webtest/index.html",
+    "main.73cc0440.css.map": "/webtest/static/css/main.73cc0440.css.map",
+    "main.f600feca.js.map": "/webtest/static/js/main.f600feca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73cc0440.css",
+    "static/js/main.f600feca.js"
+  ]
+}
